@@ -1,1 +1,2 @@
 
+# Calculate Client Security Hash
